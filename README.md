@@ -9,3 +9,8 @@ The purpose of Codeapalooza 2 is to focus mainly on Angular 2 and showing how it
 [Prepare Your Machine Project](https://github.com/nmug/codeapalooza2/tree/master/prepareyourmachine)
 
 [Configure a basic ASP.Net Core application](https://github.com/nmug/codeapalooza2/tree/master/ConfigureABasicASPNetCoreApplication)
+
+
+<li><a href="https://nodejs.org">Node.js and npm</a></li>
+<li><a href="https://github.com/dotnet/core/blob/master/release-notes/preview3-download.md">.NET Core (Includes ASP.NET Core)</a></li>
+<li><a href="https://code.visualstudio.com">Visual Studio Code</a></li>
