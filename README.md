@@ -1,5 +1,5 @@
 # Codeapalooza 2
-Part 2 of Web API and Angular 2
+Part 2 of Web API and Angular 2 HackAThon
 
 ##Overview
 The purpose of Codeapalooza 2 is to focus mainly on Angular 2 and showing how it can connect back to the Yelp web api that was developed in Codeapalooza 1.
