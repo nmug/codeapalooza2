@@ -1,0 +1,3 @@
+If you are an experienced ASP.NET developer in Visual Studio, you might be thinking how much you took for granted with the framework and tooling in the past. This setup is significantly different than File, New Project in Visual Studio so please refer to the code on GitHub.
+
+Now you understand the basic mechanics of starting an ASP.NET Core application. You setup a web host, web server, and static file support. You know the difference between content root and web root. 
