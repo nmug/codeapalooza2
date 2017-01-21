@@ -1,0 +1,5 @@
+C:\development\NMUG\codeapalooza2\Angular2AndAspNetRouting\bin\Debug\netcoreapp1.0\dotnetcoreangularapp.dll
+C:\development\NMUG\codeapalooza2\Angular2AndAspNetRouting\bin\Debug\netcoreapp1.0\dotnetcoreangularapp.pdb
+C:\development\NMUG\codeapalooza2\Angular2AndAspNetRouting\obj\Debug\netcoreapp1.0\dotnetcoreangularapp.AssemblyInfo.cs
+C:\development\NMUG\codeapalooza2\Angular2AndAspNetRouting\obj\Debug\netcoreapp1.0\dotnetcoreangularapp.dll
+C:\development\NMUG\codeapalooza2\Angular2AndAspNetRouting\obj\Debug\netcoreapp1.0\dotnetcoreangularapp.pdb
