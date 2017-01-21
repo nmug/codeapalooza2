@@ -24,5 +24,3 @@ export class YelpComponent implements OnInit{
          /* onComplete */ () => this.isLoading = false);
   }
 }
-
-
