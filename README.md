@@ -18,3 +18,4 @@ The purpose of Codeapalooza 2 is to focus mainly on Angular 2 and showing how it
 
 ##Helpful Links
 [First Angular App](http://angularfirst.com/your-first-angular-2-asp-net-core-project-in-visual-studio-code-part-1)
+[TypeScript](http://www.typescriptlang.org/index.html)
