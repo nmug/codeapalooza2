@@ -1,0 +1,1 @@
+You are now equipped to zip through your development workflow using npm scripts and Visual Studio Code tasks. If you're coming from the Visual Studio IDE, this gives you an idea of how to accomplish some of what the full-fledged IDE provides and hopefully further inspires you to customize the tasks that Visual Studio Code enables.

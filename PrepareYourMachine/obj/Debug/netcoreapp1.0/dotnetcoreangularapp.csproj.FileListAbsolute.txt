@@ -3,3 +3,8 @@ C:\development\NMUG\codeapalooza2\dotnetcoreangularapp\bin\Debug\netcoreapp1.0\d
 C:\development\NMUG\codeapalooza2\dotnetcoreangularapp\obj\Debug\netcoreapp1.0\dotnetcoreangularapp.AssemblyInfo.cs
 C:\development\NMUG\codeapalooza2\dotnetcoreangularapp\obj\Debug\netcoreapp1.0\dotnetcoreangularapp.dll
 C:\development\NMUG\codeapalooza2\dotnetcoreangularapp\obj\Debug\netcoreapp1.0\dotnetcoreangularapp.pdb
+c:\development\NMUG\codeapalooza2\prepareyourmachine\bin\Debug\netcoreapp1.0\dotnetcoreangularapp.dll
+c:\development\NMUG\codeapalooza2\prepareyourmachine\bin\Debug\netcoreapp1.0\dotnetcoreangularapp.pdb
+c:\development\NMUG\codeapalooza2\prepareyourmachine\obj\Debug\netcoreapp1.0\dotnetcoreangularapp.AssemblyInfo.cs
+c:\development\NMUG\codeapalooza2\prepareyourmachine\obj\Debug\netcoreapp1.0\dotnetcoreangularapp.dll
+c:\development\NMUG\codeapalooza2\prepareyourmachine\obj\Debug\netcoreapp1.0\dotnetcoreangularapp.pdb
