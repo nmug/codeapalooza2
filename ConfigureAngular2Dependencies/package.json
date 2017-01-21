@@ -1,0 +1,43 @@
+{
+  "name": "angular2-aspnetcore-starter",
+  "version": "0.0.1",
+  "description": "Starter application using Angular 2 and ASP.NET Core",
+  "scripts": {
+    "start": "tsc && concurrently \"tsc -w\" \"dotnet run\" ",
+    "install": "dotnet restore",
+    "clean": "npm run clean:dotnet && npm run clean:npm",
+    "clean:dotnet": "npm run clean:bin && npm run clean:obj",
+    "clean:bin": "del /q .\\bin\\*.* && for /d %i in (.\\bin\\*.*) do @rmdir /s /q \"%i\" ",
+    "clean:obj": "del /q .\\obj\\*.* && for /d %i in (.\\obj\\*.*) do @rmdir /s /q \"%i\" ",
+    "clean:npm": "del /q .\\node_modules\\*.* && for /d %i in (.\\node_modules\\*.*) do @rmdir /s /q \"%i\" ",
+    "edge": "start microsoft-edge:http://localhost:5000",
+    "chrome": "start chrome http://localhost:5000",
+    "firefox": "start firefox http://localhost:5000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@angular/common": "~2.2.0",
+    "@angular/compiler": "~2.2.0",
+    "@angular/core": "~2.2.0",
+    "@angular/forms": "~2.2.0",
+    "@angular/http": "~2.2.0",
+    "@angular/platform-browser": "~2.2.0",
+    "@angular/platform-browser-dynamic": "~2.2.0",
+    "@angular/router": "~3.2.0",
+
+    "angular-in-memory-web-api": "~0.1.15",
+    "systemjs": "0.19.40",
+    "core-js": "^2.4.1",
+    "reflect-metadata": "^0.1.8",
+    "rxjs": "5.0.0-beta.12",
+    "zone.js": "^0.6.26"
+  },
+  "devDependencies": {
+    "concurrently": "^3.1.0",
+    "typescript": "^2.0.10",
+    "@types/node": "^6.0.46"
+  },
+  "repository": {}
+}
