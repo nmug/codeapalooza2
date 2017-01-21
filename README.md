@@ -17,4 +17,4 @@ The purpose of Codeapalooza 2 is to focus mainly on Angular 2 and showing how it
 <li><a href="https://code.visualstudio.com">Visual Studio Code</a></li>
 
 ##Helpful Links
-[First Angular App](http://angularfirst.com/your-first-angular-2-asp-net-core-project-in-visual-studio-code-part-1/)
+[First Angular App](http://angularfirst.com/your-first-angular-2-asp-net-core-project-in-visual-studio-code-part-1)
